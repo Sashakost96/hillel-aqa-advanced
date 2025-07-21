@@ -1,3 +1,9 @@
+The js-functions branch contains changes related to the homework task 6.1:
+
+- Function that returns the result of the area of the rectangle to the console;
+- Function that returns the result (whether the person is an adult) to the console for each case;
+- Function that checks the possibility of placing an order and returns a message about the result;
+
 The js-loop branch contains changes related to the homework task 5.1:
 
 - Determining a student's performance level;
