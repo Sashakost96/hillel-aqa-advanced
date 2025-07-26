@@ -2,7 +2,7 @@ const numberOutput = (num) => console.log(num);
 
 function valueDecreaser(num) {
   while (num >= 0) {
-    numberOutput(num--);
+    numberOutput(num);
     num--;
   }
 }
