@@ -1,3 +1,9 @@
+The js-functions2 branch contains changes related to the homework task 7.1:
+
+- Callback function usage;
+- Recursive function call;
+- Creating and handling exceptions;
+
 The js-functions branch contains changes related to the homework task 6.1:
 
 - Function that returns the result of the area of the rectangle to the console;
