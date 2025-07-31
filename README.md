@@ -1,3 +1,12 @@
+The js-arrays branch contains changes related to the homework task 8.1:
+
+- Tracking many positive, negative, and zero numbers;
+- Copying with mutation;
+- Calculating the sum of array elements;
+- Selection of even numbers;
+- Combining arrays;
+- Sorting arrays;
+
 The js-functions2 branch contains changes related to the homework task 7.1:
 
 - Callback function usage;
