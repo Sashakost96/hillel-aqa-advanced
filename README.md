@@ -1,3 +1,10 @@
+The js-objects branch contains changes related to the homework task 9.1:
+- Creating an object and adding properties;
+- Destructuring properties from an object;
+- Combining objects using the spread operator;
+- Updating and deleting object properties;
+- Traversing an array of objects with restructuring;
+
 The js-arrays branch contains changes related to the homework task 8.1:
 
 - Tracking many positive, negative, and zero numbers;
