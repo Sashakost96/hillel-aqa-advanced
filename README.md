@@ -1,3 +1,8 @@
+The js-oop branch contains changes related to the homework task 10.1:
+- Create class and adding properties;
+- Add get and set to the class;
+- Create static method;
+
 The js-objects branch contains changes related to the homework task 9.1:
 - Creating an object and adding properties;
 - Destructuring properties from an object;
