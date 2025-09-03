@@ -1,3 +1,13 @@
+The js-promises branch contains changes related to the homework task 11.1:
+- Implementation of a function that should output the transmitted text to the console after a specified number of milliseconds;
+- Using then() and catch() to handle the results of a promise execution;
+- Using the async/await construct;
+
+The js-oop branch contains changes related to the homework task 10.1:
+- Create class and adding properties;
+- Add get and set to the class;
+- Create static method;
+
 The js-objects branch contains changes related to the homework task 9.1:
 - Creating an object and adding properties;
 - Destructuring properties from an object;
