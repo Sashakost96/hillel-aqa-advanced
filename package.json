@@ -1,0 +1,17 @@
+{
+	"devDependencies": {
+		"@eslint/js": "^9.34.0",
+		"eslint": "^9.34.0",
+		"globals": "^16.3.0",
+		"husky": "^9.1.7",
+		"prettier": "3.6.2"
+	},
+	"type": "module",
+	"scripts": {
+		"lint": "npx eslint --fix .",
+		"test": "echo 'test pre-commit'",
+		"eslint:all": "npx eslint .",
+		"prettier:all": "npx prettier --write .",
+		"prepare": "husky"
+	}
+}
