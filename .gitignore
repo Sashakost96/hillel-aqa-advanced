@@ -1,5 +1,5 @@
-node_modules
+node_modules/
+.husky/
+!.husky/pre-comit
 **/.DS_Store
-.DS_Store
 practice.js
-js-practice
